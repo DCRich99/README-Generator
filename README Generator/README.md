@@ -1,19 +1,7 @@
 # Professional Readme Generator
 
-  ## Licensing:
-  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
-
-  ## Table of Contents 
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Additional Info](#additional-info)
-
-  ## Visual Presentation
-  ![Professional Readme Generator Demo](demo/readme-generator.gif)
-
-  ## Description:
-  The above gif is a demonstration of how this 'deployed' application works. Created in effort to swiftly generate README files that use a consistant format. This took awhile for me to find all the missing pieces to get something working, it's weird yet awesome how something so seemingly simple took many hours of testing. Please enjoy the generator!
+ 
+  
   
   - WHEN I am prompted for information about my application repositor
     - THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -30,16 +18,4 @@
   - WHEN I click on the links in the Table of Contents
     - THEN I am taken to the corresponding section of the README
 
-  ## Installation:
-  - Download it through Github
-  - Ensure inquirer is installed
-
-  ## Usage:
-  - Open terminal
-  - Type 'node index.js'
-  - Answer the prompts that follow
-  - On success a README.md will be generated.
-
-  ## Additional Info:
-  - Github: [jwilferd10](https://github.com/jwilferd10)
-  - Email: jwilferd10@yahoo.com 
+ 
